@@ -1,0 +1,311 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 32635 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\programs\unity\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/projects/unityProjects/3D projects/PerceptronV1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60155
+Successfully changed project path to: D:/projects/unityProjects/3D projects/PerceptronV1
+D:/projects/unityProjects/3D projects/PerceptronV1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 22.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path D:/programs/unity/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/projects/unityProjects/3D projects/PerceptronV1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.6611
+Initialize mono
+Mono path[0] = 'D:/programs/unity/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'D:/programs/unity/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/programs/unity/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56276
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/programs/unity/2020.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/programs/unity/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/programs/unity/2020.3.11f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.001178 seconds.
+Native extension for Lumin target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 22.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.284 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001985 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.883 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1389 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1823.
+Total: 2.209300 ms (FindLiveObjects: 0.285000 ms CreateObjectMapping: 0.115400 ms MarkObjects: 1.723800 ms  DeleteObjects: 0.083800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Perceptron.cs
+  artifactKey: Guid(2fc05dd17a4534523be35740be36de0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Perceptron.cs using Guid(2fc05dd17a4534523be35740be36de0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d304b4f24d8c89bb1b23bd94529321f') in 0.034023 seconds
+  Import took 0.036365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.442825 seconds.
+  path: Assets/SimpleGrapher.cs
+  artifactKey: Guid(44ecc243d2b98448ea4cd11ae1a71821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleGrapher.cs using Guid(44ecc243d2b98448ea4cd11ae1a71821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce511115bff12d96f4f65da3e38e505') in 0.005420 seconds
+  Import took 0.007674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/SimpleGrapher.cs
+  artifactKey: Guid(44ecc243d2b98448ea4cd11ae1a71821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleGrapher.cs using Guid(44ecc243d2b98448ea4cd11ae1a71821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce511115bff12d96f4f65da3e38e505') in 0.001938 seconds
+  Import took 0.004121 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001844 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.825 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1384 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.7 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1826.
+Total: 1.547400 ms (FindLiveObjects: 0.134300 ms CreateObjectMapping: 0.043200 ms MarkObjects: 1.323200 ms  DeleteObjects: 0.046000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 735.154370 seconds.
+  path: Assets/Perceptron
+  artifactKey: Guid(ecf54f51e85ee4b4b8a16f2109111038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Perceptron using Guid(ecf54f51e85ee4b4b8a16f2109111038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d08e7b6ee0bf16f4733213f832c745f') in 0.006125 seconds
+  Import took 0.008297 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001921 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.791 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1384 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.7 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1829.
+Total: 1.560500 ms (FindLiveObjects: 0.136000 ms CreateObjectMapping: 0.045400 ms MarkObjects: 1.337200 ms  DeleteObjects: 0.041300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8998.060977 seconds.
+  path: Assets/Perceptron 1
+  artifactKey: Guid(90a31488450462e4eb3ed9f4311206dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Perceptron 1 using Guid(90a31488450462e4eb3ed9f4311206dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02d3ccd987a663c73451204caf0ab586') in 0.008977 seconds
+  Import took 0.011521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.863520 seconds.
+  path: Assets/PerceptronV2
+  artifactKey: Guid(90a31488450462e4eb3ed9f4311206dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PerceptronV2 using Guid(90a31488450462e4eb3ed9f4311206dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6a5e778e71258f09a8b74c78df207d2') in 0.005875 seconds
+  Import took 0.008059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.420427 seconds.
+  path: Assets/PerceptronV2/7.1 DodgeBallPerceptron.zip
+  artifactKey: Guid(8e4aaf5e0f898f646bcf8d41066c8431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PerceptronV2/7.1 DodgeBallPerceptron.zip using Guid(8e4aaf5e0f898f646bcf8d41066c8431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18f2a96e96c36f998ad0aeb359c7b0b9') in 0.005254 seconds
+  Import took 0.007347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.221774 seconds.
+  path: Assets/PerceptronV2/7.1 DodgeBallPerceptron.zip/DodgeBallPerceptron
+  artifactKey: Guid(baf6fba6770a1bc4f9cdc6a3557e02fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PerceptronV2/7.1 DodgeBallPerceptron.zip/DodgeBallPerceptron using Guid(baf6fba6770a1bc4f9cdc6a3557e02fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '770dc84bc2a69e31fc22d3ce9d380f2c') in 0.005676 seconds
+  Import took 0.007443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.725362 seconds.
+  path: Assets/PerceptronV2/7.1 DodgeBallPerceptron.zip/DodgeBallPerceptron/DodgeBallPerceptron.unitypackage
+  artifactKey: Guid(dcdf28cd747accb4b92dfd110fafbdcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PerceptronV2/7.1 DodgeBallPerceptron.zip/DodgeBallPerceptron/DodgeBallPerceptron.unitypackage using Guid(dcdf28cd747accb4b92dfd110fafbdcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cec989d11068df2715fa8ff65d58111') in 0.026257 seconds
+  Import took 0.028176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.214216 seconds.
+  path: Assets/Cube.prefab
+  artifactKey: Guid(c66a055afc8284d039725a9e0d0db3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cube.prefab using Guid(c66a055afc8284d039725a9e0d0db3d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '675870b998db3bdfe2b6b238dcb0790e') in 0.174980 seconds
+  Import took 0.177391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/green.mat
+  artifactKey: Guid(ba3a63e8d6b114f02b957e03c09403ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/green.mat using Guid(ba3a63e8d6b114f02b957e03c09403ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ae74ff3e7b53e907c867c0230900c0') in 0.185044 seconds
+  Import took 0.187146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Sphere.prefab
+  artifactKey: Guid(c8ad6dc2bd62744ab9f4c2430b97f35f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sphere.prefab using Guid(c8ad6dc2bd62744ab9f4c2430b97f35f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97fcb2736d31a78c6ac79bf9ddaba5f7') in 0.041048 seconds
+  Import took 0.043004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/red.mat
+  artifactKey: Guid(1610655a116ac473ea7205b56afbcb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/red.mat using Guid(1610655a116ac473ea7205b56afbcb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20017cb8fa313a517150bdfe3b967122') in 0.017395 seconds
+  Import took 0.019409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001202 seconds.
+  path: Assets/red.mat
+  artifactKey: Guid(1610655a116ac473ea7205b56afbcb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/red.mat using Guid(1610655a116ac473ea7205b56afbcb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20017cb8fa313a517150bdfe3b967122') in 0.029963 seconds
+  Import took 0.032779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.804172 seconds.
+  path: Assets/PerceptronV2/7.1 DodgeBallPerceptron.zip/__MACOSX
+  artifactKey: Guid(0bf08b878451c6f4a9a8b069f3f90fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PerceptronV2/7.1 DodgeBallPerceptron.zip/__MACOSX using Guid(0bf08b878451c6f4a9a8b069f3f90fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '312bac4939ee1ac7e908e5f2531ace4e') in 0.005529 seconds
+  Import took 0.007647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.321959 seconds.
+  path: Assets/PerceptronV2/7.1 DodgeBallPerceptron.zip/__MACOSX/DodgeBallPerceptron
+  artifactKey: Guid(854a015fb02401f48918d5a3f7b4b2ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PerceptronV2/7.1 DodgeBallPerceptron.zip/__MACOSX/DodgeBallPerceptron using Guid(854a015fb02401f48918d5a3f7b4b2ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c533c6d147ab1f602e188549d9a0b901') in 0.006375 seconds
+  Import took 0.008723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.110072 seconds.
+  path: Assets/DodgeBall.unity
+  artifactKey: Guid(2b94ad3d2c81d45429209f1c205c9b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DodgeBall.unity using Guid(2b94ad3d2c81d45429209f1c205c9b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '247f9f1e567487ac667827decba907c6') in 0.006828 seconds
+  Import took 0.008870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.246160 seconds.
+  path: Assets/Ethan.controller
+  artifactKey: Guid(2e23730c4e8c646a2ad0df9fb41a1fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ethan.controller using Guid(2e23730c4e8c646a2ad0df9fb41a1fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23cf6aa6fa2003dd7de4f3e6fd01a4e7') in 0.010007 seconds
+  Import took 0.012223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.709702 seconds.
+  path: Assets/Perceptron.cs
+  artifactKey: Guid(1a5cee44792b34921bed2a2de5f80035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Perceptron.cs using Guid(1a5cee44792b34921bed2a2de5f80035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a540437d5117231852e498369fa4fcb') in 0.002012 seconds
+  Import took 0.003948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002869 seconds.
+  path: Assets/Perceptron.cs
+  artifactKey: Guid(1a5cee44792b34921bed2a2de5f80035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Perceptron.cs using Guid(1a5cee44792b34921bed2a2de5f80035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a540437d5117231852e498369fa4fcb') in 0.001968 seconds
+  Import took 0.003909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.606366 seconds.
+  path: Assets/PerceptronV2.cs
+  artifactKey: Guid(cda7974e119d2f0448729a8310ec38ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PerceptronV2.cs using Guid(cda7974e119d2f0448729a8310ec38ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b74ea829943b95963f40d89e3575a32a') in 0.001608 seconds
+  Import took 0.004334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.669222 seconds.
+  path: Assets/Standard Assets
+  artifactKey: Guid(2c483ae5d49514044adb64b5ad4c0225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets using Guid(2c483ae5d49514044adb64b5ad4c0225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd376a42fd38ec9d511ecdd318236c30') in 0.005729 seconds
+  Import took 0.008333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 199.213488 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(0b2c8c96675c9934f930a644e5e4de34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(0b2c8c96675c9934f930a644e5e4de34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bed987db47340120154cd8e797743f72') in 0.006727 seconds
+  Import took 0.008869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 218.365575 seconds.
+  path: Assets/PerceptronV2/PerceptronV2.cs
+  artifactKey: Guid(cda7974e119d2f0448729a8310ec38ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PerceptronV2/PerceptronV2.cs using Guid(cda7974e119d2f0448729a8310ec38ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0237cfd38a3bc66f1cb2c155d41e0659') in 0.005251 seconds
+  Import took 0.007354 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
